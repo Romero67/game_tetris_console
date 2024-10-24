@@ -1,0 +1,54 @@
+[
+    {
+        "name": "I-Tetrimino",
+        "map": [
+            [1],
+            [1],
+            [1],
+            [1]
+        ],
+        "weightProbability": 100
+    },
+    {
+        "name": "O-Tetrimino",
+        "map": [
+            [1,1],
+            [1,1]
+        ],
+        "weightProbability": 1
+    },
+    {
+        "name": "T-Tetrimino",
+        "map": [
+            [1,1,1],
+            [0,1,0]
+
+        ],
+        "weightProbability": 1
+    },
+    {
+        "name": "J-Tetrimino",
+        "map": [
+            [1,1],
+            [0,1],
+            [0,1]
+        ],
+        "weightProbability": 1
+    },
+    {
+        "name": "S-Tetrimino",
+        "map": [
+            [0,1,1],
+            [1,1,0]
+        ],
+        "weightProbability": 1
+    },
+    {
+        "name": "Z-Tetrimino",
+        "map": [
+            [1,1,0],
+            [0,1,1]
+        ],
+        "weightProbability": 1
+    }
+]
